@@ -17,4 +17,4 @@ Plataforma de gestión de donaciones para **NestAi**, diseñada para optimizar l
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/NestAi-Donations.git
+   https://github.com/estefaniaestepa/NestAi_Donations.git
