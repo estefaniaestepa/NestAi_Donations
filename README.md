@@ -1,13 +1,3 @@
-# INSTALLATION AND USAGE
-
-- ```git clone https://github.com/Ferxas/nestaiDonations```
-- ```cd nestaiDonations```
-- ```python -m venv venv```
-- ```venv\Scripts\Activate.ps1``` or ```source venv/Scripts/activate```
-- ```cd backend/```
-- ```pip install -r requirements.txt```
-- ```python -m app.main```
-
 # NestAi Donations
 
 Plataforma de gestión de donaciones para **NestAi**, diseñada para optimizar la experiencia de los donantes y facilitar la administración de las contribuciones.
