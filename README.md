@@ -15,7 +15,7 @@ Plataforma de gestión de donaciones para **NestAi**, diseñada para optimizar l
 - Automatización de flujos de correo.
 
 ## Capturas de Pantalla
-![Donaciones](ruta/de/la/imagen)
+![Donaciones]([ruta/de/la/imagen](https://github.com/estefaniaestepa/NestAi_Donations/blob/main/backend/app/static/images/logo.png))
 
 ## Instalación
 1. Clona el repositorio:
