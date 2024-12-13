@@ -14,6 +14,9 @@ Plataforma de gestión de donaciones para **NestAi**, diseñada para optimizar l
 - Predicción de patrones de donación con inteligencia artificial.
 - Automatización de flujos de correo.
 
+## Capturas de Pantalla
+![Donaciones](ruta/de/la/imagen)
+
 ## Instalación
 1. Clona el repositorio:
    ```bash
